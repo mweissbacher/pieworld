@@ -1,0 +1,2066 @@
+{
+    "foreign_to_pie": [
+        {
+            "from": [
+                "af",
+                "sirkelgrafiek"
+            ],
+            "to": [
+                "en",
+                "pie"
+            ]
+        },
+        {
+            "from": [
+                "sq",
+                "tabel\u00eb me byrek"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "am",
+                "\u12a0\u121d\u1263\u123b \u1308\u1260\u1273"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ar",
+                "\u0645\u062e\u0637\u0637 \u062f\u0627\u0626\u0631\u064a"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "hy",
+                "\u056f\u0561\u0580\u056f\u0561\u0576\u0564\u0561\u056f \u0561\u0572\u0575\u0578\u0582\u057d\u0561\u056f\u0568"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "az",
+                "pasta \u015f\u0259kli"
+            ],
+            "to": [
+                "en",
+                "pastry photo"
+            ]
+        },
+        {
+            "from": [
+                "eu",
+                "diagrama"
+            ],
+            "to": [
+                "en",
+                "diagram"
+            ]
+        },
+        {
+            "from": [
+                "be",
+                "\u043a\u0440\u0443\u0433\u0430\u0432\u0430\u044f \u0434\u044b\u044f\u0433\u0440\u0430\u043c\u0430"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "bn",
+                "\u09aa\u09be\u0987 \u099a\u09bf\u09a4\u09cd\u09b0"
+            ],
+            "to": [
+                "en",
+                "Pie image"
+            ]
+        },
+        {
+            "from": [
+                "bs",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "bg",
+                "\u043a\u0440\u044a\u0433\u043e\u0432\u0430 \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u0430"
+            ],
+            "to": [
+                "en",
+                "circular diagram"
+            ]
+        },
+        {
+            "from": [
+                "ca",
+                "gr\u00e0fic circular"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ceb",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ny",
+                "tchati cha pie"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "zh",
+                "\u997c\u5f62\u56fe"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "zh-TW",
+                "\u9905\u5f62\u5716"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "co",
+                "grafico pie"
+            ],
+            "to": [
+                "en",
+                "graphic pie"
+            ]
+        },
+        {
+            "from": [
+                "hr",
+                "kru\u017eni graf"
+            ],
+            "to": [
+                "en",
+                "circular graph"
+            ]
+        },
+        {
+            "from": [
+                "cs",
+                "v\u00fdse\u010dov\u00fd graf"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "da",
+                "lagkagediagram"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "nl",
+                "cirkeldiagram"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "eo",
+                "torta diagramo"
+            ],
+            "to": [
+                "en",
+                "cake diagram"
+            ]
+        },
+        {
+            "from": [
+                "et",
+                "pirukaart"
+            ],
+            "to": [
+                "en",
+                "card"
+            ]
+        },
+        {
+            "from": [
+                "tl",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "fi",
+                "ympyr\u00e4diagrammi"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "fr",
+                "camembert"
+            ],
+            "to": [
+                "en",
+                "Camembert"
+            ]
+        },
+        {
+            "from": [
+                "fy",
+                "sirkeldiagram"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "gl",
+                "gr\u00e1fico circular"
+            ],
+            "to": [
+                "en",
+                "circular graph"
+            ]
+        },
+        {
+            "from": [
+                "ka",
+                "\u10e2\u10dd\u10e0\u10e2\u10d8 \u10e9\u10d0\u10e0\u10e2\u10e8\u10d8"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "de",
+                "Kuchendiagramm"
+            ],
+            "to": [
+                "en",
+                "Cake chart"
+            ]
+        },
+        {
+            "from": [
+                "el",
+                "\u03b4\u03b9\u03ac\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03af\u03c4\u03b1\u03c2"
+            ],
+            "to": [
+                "en",
+                "pie pie"
+            ]
+        },
+        {
+            "from": [
+                "gu",
+                "\u0aaa\u0abe\u0a87 \u0a9a\u0abe\u0ab0\u0acd\u0a9f"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ht",
+                "tablo tat"
+            ],
+            "to": [
+                "en",
+                "board pie"
+            ]
+        },
+        {
+            "from": [
+                "ha",
+                "zane"
+            ],
+            "to": [
+                "en",
+                "drawing"
+            ]
+        },
+        {
+            "from": [
+                "haw",
+                "papa pa\u02bbi"
+            ],
+            "to": [
+                "en",
+                "tablet"
+            ]
+        },
+        {
+            "from": [
+                "iw",
+                "\u05ea\u05e8\u05e9\u05d9\u05dd \u05e2\u05d5\u05d2\u05d4"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "hi",
+                "\u092a\u093e\u0908 \u091a\u093e\u0930\u094d\u091f"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "hmn",
+                "lub ncuav qab zib"
+            ],
+            "to": [
+                "en",
+                "the cookies"
+            ]
+        },
+        {
+            "from": [
+                "hu",
+                "k\u00f6rdiagram"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "is",
+                "k\u00f6kurit"
+            ],
+            "to": [
+                "en",
+                "pie charts"
+            ]
+        },
+        {
+            "from": [
+                "ig",
+                "ihe nhazi"
+            ],
+            "to": [
+                "en",
+                "organizer"
+            ]
+        },
+        {
+            "from": [
+                "id",
+                "Pie chart"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ga",
+                "p\u00edchairt"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "it",
+                "Grafico a torta"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ja",
+                "\u5186\u30b0\u30e9\u30d5"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "jw",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "kn",
+                "\u0caa\u0cc6\u0cd6 \u0c9a\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "kk",
+                "\u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430\u0441\u044b"
+            ],
+            "to": [
+                "en",
+                "chart chart"
+            ]
+        },
+        {
+            "from": [
+                "km",
+                "\u1782\u17c6\u1793\u17bc\u179f\u178f\u17b6\u1784\u1785\u17c6\u178e\u17b7\u178f"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ko",
+                "\ud30c\uc774 \ucc28\ud2b8"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ku",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ky",
+                "\u0442\u0435\u0433\u0435\u0440\u0435\u043a \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "lo",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "la",
+                "Pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "lv",
+                "sektoru diagramma"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "lt",
+                "pyrag\u0173 diagrama"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "lb",
+                "Punkteplang"
+            ],
+            "to": [
+                "en",
+                "Point plan"
+            ]
+        },
+        {
+            "from": [
+                "mk",
+                "\u043f\u0438\u0442\u0430 \u0448\u0435\u043c\u0430"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "mg",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ms",
+                "carta pai"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ml",
+                "\u0d2a\u0d48 \u0d1a\u0d3e\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "mt",
+                "pie chart"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "mi",
+                "mahere papa"
+            ],
+            "to": [
+                "en",
+                "papa map"
+            ]
+        },
+        {
+            "from": [
+                "mr",
+                "\u092a\u093e\u092f \u091a\u093e\u0930\u094d\u091f"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "mn",
+                "\u0431\u044f\u043b\u0443\u0443 \u0445\u04af\u0441\u043d\u044d\u0433\u0442"
+            ],
+            "to": [
+                "en",
+                "cake table"
+            ]
+        },
+        {
+            "from": [
+                "my",
+                "\u1005\u1000\u103a\u101d\u102d\u102f\u1004\u103a\u1038\u1007\u101a\u102c\u1038"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ne",
+                "\u092a\u093e\u0907 \u091a\u093e\u0930\u094d\u091f"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "no",
+                "Kake diagram"
+            ],
+            "to": [
+                "en",
+                "Cake diagram"
+            ]
+        },
+        {
+            "from": [
+                "ps",
+                "\u067e\u067c\u0647 \u0686\u0627\u0631\u067c"
+            ],
+            "to": [
+                "en",
+                "Hidden chart"
+            ]
+        },
+        {
+            "from": [
+                "fa",
+                "\u0646\u0645\u0648\u062f\u0627\u0631 \u062f\u0627\u06cc\u0631\u0647 \u0627\u06cc"
+            ],
+            "to": [
+                "en",
+                "Circular diagram"
+            ]
+        },
+        {
+            "from": [
+                "pl",
+                "wykres ko\u0142owy"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "pt",
+                "gr\u00e1fico de pizza"
+            ],
+            "to": [
+                "en",
+                "pizza pie"
+            ]
+        },
+        {
+            "from": [
+                "pa",
+                "\u0a2a\u0a3e\u0a08 \u0a1a\u0a3e\u0a30\u0a1f"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ro",
+                "Graficul propor\u021biilor"
+            ],
+            "to": [
+                "en",
+                "Graph of proportions"
+            ]
+        },
+        {
+            "from": [
+                "ru",
+                "\u043a\u0440\u0443\u0433\u043e\u0432\u0430\u044f \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "sm",
+                "pa\u02bbu pa\u02bbu"
+            ],
+            "to": [
+                "en",
+                "skin"
+            ]
+        },
+        {
+            "from": [
+                "gd",
+                "cl\u00e0r-cearcaill"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "sr",
+                "\u043f\u0438\u0435 \u0446\u0445\u0430\u0440\u0442"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "st",
+                "chate ea pie"
+            ],
+            "to": [
+                "en",
+                "pie&#39;s chate"
+            ]
+        },
+        {
+            "from": [
+                "sn",
+                "pie chati"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "sd",
+                "\u067e\u0627\u0626\u064a \u0686\u0627\u0631\u067d"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "si",
+                "\u0db4\u0dba\u0dd2 \u0da0\u0dd0\u0da7\u0dca"
+            ],
+            "to": [
+                "en",
+                "Pirate Chat"
+            ]
+        },
+        {
+            "from": [
+                "sk",
+                "kol\u00e1\u010dov\u00fd graf"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "sl",
+                "kro\u017eni diagram"
+            ],
+            "to": [
+                "en",
+                "circular diagram"
+            ]
+        },
+        {
+            "from": [
+                "so",
+                "shaxda"
+            ],
+            "to": [
+                "en",
+                "table"
+            ]
+        },
+        {
+            "from": [
+                "es",
+                "Gr\u00e1fico circular"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "su",
+                "bagan pai"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "sw",
+                "jedwali la mdwara"
+            ],
+            "to": [
+                "en",
+                "table of the patient"
+            ]
+        },
+        {
+            "from": [
+                "sv",
+                "t\u00e5rtdiagram"
+            ],
+            "to": [
+                "en",
+                "pieChart"
+            ]
+        },
+        {
+            "from": [
+                "tg",
+                "\u04b7\u0430\u0434\u0432\u0430\u043b\u0438 \u0448\u0438\u0448\u0430\u0433\u0438\u043d"
+            ],
+            "to": [
+                "en",
+                "glassy table"
+            ]
+        },
+        {
+            "from": [
+                "ta",
+                "\u0baa\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "te",
+                "\u0c2a\u0c46\u0c56 \u0c1a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "th",
+                "\u0e41\u0e1c\u0e19\u0e20\u0e39\u0e21\u0e34\u0e27\u0e07\u0e01\u0e25\u0e21"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "tr",
+                "yuvarlak diyagram"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "uk",
+                "\u043a\u0440\u0443\u0433\u043e\u0432\u0430 \u0434\u0456\u0430\u0433\u0440\u0430\u043c\u0430"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "ur",
+                "\u067e\u0627\u0626\u06cc \u0686\u0627\u0631\u0679"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "uz",
+                "pirog grafigi"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "vi",
+                "bi\u1ec3u \u0111\u1ed3 tr\u00f2n"
+            ],
+            "to": [
+                "en",
+                "circular chart"
+            ]
+        },
+        {
+            "from": [
+                "cy",
+                "siart cylch"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "xh",
+                "itshathi yephayi"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "yi",
+                "\u05e4\u05bc\u05d9\u05e8\u05d0\u05b8\u05d2 \u05d8\u05e9\u05d0\u05b7\u05e8\u05d8"
+            ],
+            "to": [
+                "en",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "yo",
+                "paati ap\u1eb9r\u1eb9"
+            ],
+            "to": [
+                "en",
+                "cart shape"
+            ]
+        },
+        {
+            "from": [
+                "zu",
+                "ishadi lephayi"
+            ],
+            "to": [
+                "en",
+                "pie chart"
+            ]
+        }
+    ],
+    "pie_to_foreign": [
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "af",
+                "sirkelgrafiek"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sq",
+                "tabel\u00eb me byrek"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "am",
+                "\u12a0\u121d\u1263\u123b \u1308\u1260\u1273"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ar",
+                "\u0645\u062e\u0637\u0637 \u062f\u0627\u0626\u0631\u064a"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "hy",
+                "\u056f\u0561\u0580\u056f\u0561\u0576\u0564\u0561\u056f \u0561\u0572\u0575\u0578\u0582\u057d\u0561\u056f\u0568"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "az",
+                "pasta \u015f\u0259kli"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "eu",
+                "diagrama"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "be",
+                "\u043a\u0440\u0443\u0433\u0430\u0432\u0430\u044f \u0434\u044b\u044f\u0433\u0440\u0430\u043c\u0430"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "bn",
+                "\u09aa\u09be\u0987 \u099a\u09bf\u09a4\u09cd\u09b0"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "bs",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "bg",
+                "\u043a\u0440\u044a\u0433\u043e\u0432\u0430 \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u0430"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ca",
+                "gr\u00e0fic circular"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ceb",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ny",
+                "tchati cha pie"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "zh",
+                "\u997c\u5f62\u56fe"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "zh-TW",
+                "\u9905\u5f62\u5716"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "co",
+                "grafico pie"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "hr",
+                "kru\u017eni graf"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "cs",
+                "v\u00fdse\u010dov\u00fd graf"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "da",
+                "lagkagediagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "nl",
+                "cirkeldiagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "eo",
+                "torta diagramo"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "et",
+                "pirukaart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "tl",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "fi",
+                "ympyr\u00e4diagrammi"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "fr",
+                "camembert"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "fy",
+                "sirkeldiagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "gl",
+                "gr\u00e1fico circular"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ka",
+                "\u10e2\u10dd\u10e0\u10e2\u10d8 \u10e9\u10d0\u10e0\u10e2\u10e8\u10d8"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "de",
+                "Kuchendiagramm"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "el",
+                "\u03b4\u03b9\u03ac\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03af\u03c4\u03b1\u03c2"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "gu",
+                "\u0aaa\u0abe\u0a87 \u0a9a\u0abe\u0ab0\u0acd\u0a9f"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ht",
+                "tablo tat"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ha",
+                "zane"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "haw",
+                "papa pa\u02bbi"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "iw",
+                "\u05ea\u05e8\u05e9\u05d9\u05dd \u05e2\u05d5\u05d2\u05d4"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "hi",
+                "\u092a\u093e\u0908 \u091a\u093e\u0930\u094d\u091f"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "hmn",
+                "lub ncuav qab zib"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "hu",
+                "k\u00f6rdiagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "is",
+                "k\u00f6kurit"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ig",
+                "ihe nhazi"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "id",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ga",
+                "p\u00edchairt"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "it",
+                "Grafico a torta"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ja",
+                "\u5186\u30b0\u30e9\u30d5"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "jw",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "kn",
+                "\u0caa\u0cc6\u0cd6 \u0c9a\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "kk",
+                "\u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430\u0441\u044b"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "km",
+                "\u1782\u17c6\u1793\u17bc\u179f\u178f\u17b6\u1784\u1785\u17c6\u178e\u17b7\u178f"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ko",
+                "\ud30c\uc774 \ucc28\ud2b8"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ku",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ky",
+                "\u0442\u0435\u0433\u0435\u0440\u0435\u043a \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "lo",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "la",
+                "Pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "lv",
+                "sektoru diagramma"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "lt",
+                "pyrag\u0173 diagrama"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "lb",
+                "Punkteplang"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "mk",
+                "\u043f\u0438\u0442\u0430 \u0448\u0435\u043c\u0430"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "mg",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ms",
+                "carta pai"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ml",
+                "\u0d2a\u0d48 \u0d1a\u0d3e\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "mt",
+                "pie chart"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "mi",
+                "mahere papa"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "mr",
+                "\u092a\u093e\u092f \u091a\u093e\u0930\u094d\u091f"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "mn",
+                "\u0431\u044f\u043b\u0443\u0443 \u0445\u04af\u0441\u043d\u044d\u0433\u0442"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "my",
+                "\u1005\u1000\u103a\u101d\u102d\u102f\u1004\u103a\u1038\u1007\u101a\u102c\u1038"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ne",
+                "\u092a\u093e\u0907 \u091a\u093e\u0930\u094d\u091f"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "no",
+                "Kake diagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ps",
+                "\u067e\u067c\u0647 \u0686\u0627\u0631\u067c"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "fa",
+                "\u0646\u0645\u0648\u062f\u0627\u0631 \u062f\u0627\u06cc\u0631\u0647 \u0627\u06cc"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "pl",
+                "wykres ko\u0142owy"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "pt",
+                "gr\u00e1fico de pizza"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "pa",
+                "\u0a2a\u0a3e\u0a08 \u0a1a\u0a3e\u0a30\u0a1f"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ro",
+                "Graficul propor\u021biilor"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ru",
+                "\u043a\u0440\u0443\u0433\u043e\u0432\u0430\u044f \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sm",
+                "pa\u02bbu pa\u02bbu"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "gd",
+                "cl\u00e0r-cearcaill"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sr",
+                "\u043f\u0438\u0435 \u0446\u0445\u0430\u0440\u0442"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "st",
+                "chate ea pie"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sn",
+                "pie chati"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sd",
+                "\u067e\u0627\u0626\u064a \u0686\u0627\u0631\u067d"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "si",
+                "\u0db4\u0dba\u0dd2 \u0da0\u0dd0\u0da7\u0dca"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sk",
+                "kol\u00e1\u010dov\u00fd graf"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sl",
+                "kro\u017eni diagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "so",
+                "shaxda"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "es",
+                "Gr\u00e1fico circular"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "su",
+                "bagan pai"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sw",
+                "jedwali la mdwara"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "sv",
+                "t\u00e5rtdiagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "tg",
+                "\u04b7\u0430\u0434\u0432\u0430\u043b\u0438 \u0448\u0438\u0448\u0430\u0433\u0438\u043d"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ta",
+                "\u0baa\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "te",
+                "\u0c2a\u0c46\u0c56 \u0c1a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "th",
+                "\u0e41\u0e1c\u0e19\u0e20\u0e39\u0e21\u0e34\u0e27\u0e07\u0e01\u0e25\u0e21"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "tr",
+                "yuvarlak diyagram"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "uk",
+                "\u043a\u0440\u0443\u0433\u043e\u0432\u0430 \u0434\u0456\u0430\u0433\u0440\u0430\u043c\u0430"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "ur",
+                "\u067e\u0627\u0626\u06cc \u0686\u0627\u0631\u0679"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "uz",
+                "pirog grafigi"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "vi",
+                "bi\u1ec3u \u0111\u1ed3 tr\u00f2n"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "cy",
+                "siart cylch"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "xh",
+                "itshathi yephayi"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "yi",
+                "\u05e4\u05bc\u05d9\u05e8\u05d0\u05b8\u05d2 \u05d8\u05e9\u05d0\u05b7\u05e8\u05d8"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "yo",
+                "paati ap\u1eb9r\u1eb9"
+            ]
+        },
+        {
+            "from": [
+                "en",
+                "pie chart"
+            ],
+            "to": [
+                "zu",
+                "ishadi lephayi"
+            ]
+        }
+    ]
+}
